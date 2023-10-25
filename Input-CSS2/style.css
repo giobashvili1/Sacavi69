@@ -35,6 +35,7 @@ border: 1px solid #E0E0E0;
 background: #FFF;
 margin-left: 25px;
 margin-bottom: 10px;
+padding-left: 10px;
 }
 
 .my_email::placeholder{
@@ -44,7 +45,7 @@ font-size: 16px;
 font-style: normal;
 font-weight: 500;
 line-height: normal;
-padding-left: 10px;
+
 }
 .my_password{
     width: 315px;
@@ -54,6 +55,7 @@ border-radius: 10px;
 border: 1px solid #E0E0E0;
 background: #FFF;
 margin-left: 25px;
+padding-left: 15px;
 }
 .my_password::placeholder{
     color: #9E9E9E;
@@ -63,7 +65,7 @@ font-size: 16px;
 font-style: normal;
 font-weight: 500;
 line-height: normal;
-    padding-left: 10px;
+
 }
 .button{
     width: 315px;
